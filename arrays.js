@@ -44,9 +44,5 @@ function removeElementFromEndOfArray(arr) {
   return arr;
 }
 
-function removeElementFromEndOfArray(arr) {
-  var newArray = arr.splice();
-  return newArray;
-}
 
 
